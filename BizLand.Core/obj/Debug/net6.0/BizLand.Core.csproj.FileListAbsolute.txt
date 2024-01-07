@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\bin\Debug\net6.0\BizLand.Core.deps.json
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\bin\Debug\net6.0\BizLand.Core.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\bin\Debug\net6.0\BizLand.Core.pdb
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\refint\BizLand.Core.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.pdb
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\ref\BizLand.Core.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\bin\Debug\net6.0\BizLand.Core.runtimeconfig.json
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Core\obj\Debug\net6.0\BizLand.Core.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "nj473cmgVNFFm/Y6YDh4iC6CGZlNjvSRhvHkrm2JHHw=",
+  "Source": "BizLand",
+  "BasePath": "_content/BizLand",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BizLand\\wwwroot",
+      "Source": "BizLand",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\Yeni qovluq\\BizLand\\wwwroot\\",
+      "BasePath": "_content/BizLand",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

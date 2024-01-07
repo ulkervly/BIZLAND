@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\bin\Debug\net6.0\BizLand.Business.deps.json
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\bin\Debug\net6.0\BizLand.Business.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\bin\Debug\net6.0\BizLand.Business.pdb
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\bin\Debug\net6.0\BizLand.Core.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\bin\Debug\net6.0\BizLand.Data.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\bin\Debug\net6.0\BizLand.Data.pdb
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\bin\Debug\net6.0\BizLand.Core.pdb
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.AssemblyInfo.cs
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.csproj.CopyComplete
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\refint\BizLand.Business.dll
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\BizLand.Business.pdb
+C:\Users\hp\Desktop\Yeni qovluq\BizLand.Business\obj\Debug\net6.0\ref\BizLand.Business.dll
